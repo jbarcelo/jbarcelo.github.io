@@ -5,4 +5,4 @@
 layout: page
 ---
 
-Test test
+![Flowers and me](/assets/images/flowers.png)
