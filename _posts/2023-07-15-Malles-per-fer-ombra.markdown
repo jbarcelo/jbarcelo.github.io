@@ -17,3 +17,5 @@ Si és important comentar que el nus que crec que és més pràctic és l'as de 
 Enguany he posat unes cordes que creuen tota la terrassa unint directament les anelles d'ancoratge i llavors he posat les malles damunt aquestes cordes. No són gaire estètiques, però mantenen les malles altes. Si no, les malles cauen pel seu propi pes. Sospit que les cordes sempre cedeixen i s'allarguen un poc amb el pes, amb la consegüent baixada de les malles.
 
 Per a l'any que ve, estic pensant a fermar unes cordes auxiliars d'un metre aproximadament a qualcunes de les anelles de la malla, i llavors fermar aquestes cordes auxiliars a l'anella d'ancoratge. Aquestes cordes auxiliars simplificaran la tasca, ja que actualment a vegades em trob que l'anella de la malla a la qual vull arribar em queda massa alta i necessit una escala per arribar-hi.
+
+Una altra idea per a l'any que ve és usar el nus prusik. Aquest nus és útil tant a l'hora de montar les malles per donar tensió com a l'hora de desmontar per treure la tensió de l'as de guia i desfer-lo amb més facilitat.
